@@ -1,7 +1,7 @@
 [
-    { "id": 1, "title": "Redmi Note 7 Pro", "subtitle": "(Space Black, 64 GB)", "ratings": "4.6" },
-    { "id": 2, "title": "Samsung Galaxy J6", "subtitle": "(Black, 64 GB)", "ratings": "4.5" },
-    { "id": 3, "title": "Samsung Galaxy A70", "subtitle": "(Black, 128 GB)", "ratings": "4.4" },
-    { "id": 4, "title": "Redmi Y2", "subtitle": "(Black, 32 GB)", "ratings": "4.5" },
-    { "id": 5, "title": "Realme C2", "subtitle": "(Diamond Black, 16 GB)", "ratings": "4.6" }
+    { "id": 1, "title": "Redmi Note 7 Pro", "subtitle": "(Space Black, 64 GB)", "ratings": 4.6 },
+    { "id": 2, "title": "Samsung Galaxy J6", "subtitle": "(Black, 64 GB)", "ratings": 4.5 },
+    { "id": 3, "title": "Samsung Galaxy A70", "subtitle": "(Black, 128 GB)", "ratings": 4.4 },
+    { "id": 4, "title": "Redmi Y2", "subtitle": "(Black, 32 GB)", "ratings": 4.5 },
+    { "id": 5, "title": "Realme C2", "subtitle": "(Diamond Black, 16 GB)", "ratings": 4.6 }
 ]
