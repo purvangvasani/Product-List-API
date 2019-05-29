@@ -3,7 +3,7 @@
         { "id": 1, "title": "Redmi Note 7 Pro", "subtitle": "(Space Black, 64 GB)", "ratings": 4.6 },
         { "id": 2, "title": "Samsung Galaxy J6", "subtitle": "(Black, 64 GB)", "ratings": 4.5 },
         { "id": 3, "title": "Samsung Galaxy A70", "subtitle": "(Black, 128 GB)", "ratings": 4.4 },
-        { "id": 4, "title": "Redmi Y2", "subtitle": "(Black, 32 GB)", "ratings": 4.5 },
+        { "id": 4, "title": "Redmi Y2", "subtitle": "(Black, 32 GB)", "ratings": 4.5 }
     ],
     "notification":[
         {"id": 1,"name": "Danerys Targareon","avatar_url": "https://images-na.ssl-images-amazon.com/images/I/81TVU46pqvL._SX466_.jpg","subtitle": "(Mother of Dragons, Breaker of chains, ....)","unRead": "#E6E6FA"},
